@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    <url>
-        <loc>https://shivakumarnasi7-rgb.github.io/bizconsult/</loc>
-    </url>
-
+  <url><loc>https://shivakumarnasi7-rgb.github.io/bizconsult/</loc></url>
+  <url><loc>https://shivakumarnasi7-rgb.github.io/bizconsult/about.html</loc></url>
+  <url><loc>https://shivakumarnasi7-rgb.github.io/bizconsult/business-ideas.html</loc></url>
+  <url><loc>https://shivakumarnasi7-rgb.github.io/bizconsult/services.html</loc></url>
+  <url><loc>https://shivakumarnasi7-rgb.github.io/bizconsult/contact.html</loc></url>
 </urlset>
